@@ -99,7 +99,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> Any new developers can make use of this project by:
 
 To get a local copy up and running, follow these steps.
 
